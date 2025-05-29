@@ -28,17 +28,6 @@ Welcome! This repo documents my journey to becoming a job-ready Data Engineer wi
 
 ---
 
-## 📅 Weekly Progress Log
-
-### Week 1 (May 26 – June 2)
-
-- [ ] Solve 6 LeetCode SQL problems (3 easy, 3 medium)
-- [ ] Summarize learnings and upload notes
-- [x] Set up this GitHub repo 
-- [ ] Start PySpark mini-project on Databricks
-
----
-
 ## 📂 Planned Projects
 
 - Customer Orders Delta Lake Pipeline (Databricks + ADLS + Power BI)
