@@ -1,7 +1,7 @@
 # ✅ Weekly Checklist – DE + Fabric Migration Sprint
 
 ## Week 1: May 27 – June 2
-- [ ] Complete 6 SQL problems (LeetCode or real-world)
+- [x] Complete 6 SQL problems (LeetCode or real-world)
 - [ ] Design Bronze & Silver Layer in Databricks
 - [ ] Create notebooks: `bronze_layer.ipynb`, `silver_layer.ipynb`
 - [ ] Update `design-notes.md`
